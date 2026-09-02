@@ -2,7 +2,7 @@
 
 A deep learning web application that classifies clothing images using a **custom-trained CNN** on the Fashion-MNIST dataset. The model was trained in Google Colab and deployed with FastAPI on the backend and a lightweight HTML/CSS/JS frontend, via GitHub + Render.
 
-**Live demo:** https://YOUR-RENDER-URL.onrender.com
+**Live demo:** https://fashion-mnist-classifier-w59b.onrender.com/
 
 > Hosted on Render's free tier — the first request after a period of inactivity may take 30–60 seconds while the service wakes up.
 
